@@ -28,7 +28,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/imgur.com/zY5b00B.gif' title='Prework Sylvanovich' width='50' alt='Video Walkthrough' />
+<img src='http://i.imgur.com/a/zY5b00B.gif' title='Prework Sylvanovich' width='50' alt='Video Walkthrough' />
 
 
 
@@ -38,6 +38,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 Describe any challenges encountered while building the app.
 My Xcode was experiencing a bug where the hardware keyboard was not calibrating to my application, but once ran on a different computer using Xcode the code and execution was fine. I plan to delete and reinstall Xcode to hopefully attempt to resolve the issue. This issue allowed me to step back and think about all the possible reason as to why my code may not be working as expected, but with a simple computer change the code was fine after all. 
+Aside from this, having to get my gif to play in the README file was a lot of trial and error because I was not sure on how to incorporate a link into a file of my own for it to play until now.
 
 ## License
 
