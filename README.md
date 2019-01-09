@@ -28,8 +28,8 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-![An open source player](http://i.imgur.com/zY5b00B.gif)
-
+<img src='![An open source player](http://i.imgur.com/zY5b00B.gif)
+' title='Prework Sylvanovich' width='50' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
