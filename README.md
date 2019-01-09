@@ -28,9 +28,9 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/Prework_Sylvanovich.gif' title='Prework Sylvanovich' width='50' alt='Video Walkthrough' />
+<img src='http://i.imgur.com/imgur.com/zY5b00B.gif' title='Prework Sylvanovich' width='50' alt='Video Walkthrough' />
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/zY5b00B"><a href="//imgur.com/zY5b00B">Sylvanovich Prework</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
