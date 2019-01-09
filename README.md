@@ -28,7 +28,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/nHmem10.gif' title='Prework Sylvanovich' width='50' alt='Video Walkthrough' />
+<img src='http://i.imgur.com/nHmem10.gif' title='Prework Sylvanovich' width='100' alt='Video Walkthrough' />
 
 <blockquote class="imgur-embed-pub" lang="en" data-id="a/zY5b00B"><a href="//imgur.com/zY5b00B">Sylvanovich Prework</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
